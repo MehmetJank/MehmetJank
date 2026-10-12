@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://bestkirtasiye.com"><img src="https://img.shields.io/badge/bestkirtasiye.com-live-2c93e8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="bestkirtasiye.com" /></a>
   <a href="https://mehmetjank.github.io"><img src="https://img.shields.io/badge/Portfolio-mehmetjank.github.io-203a43?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-  <img src="https://komarev.com/ghpvc/?username=MehmetJank&style=for-the-badge&color=0f2027&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://hits.sh/github.com/MehmetJank.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=0f2027&labelColor=555555" alt="Profile views" />
   <!-- <a href="https://www.linkedin.com/in/..."><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
 </p>
 
