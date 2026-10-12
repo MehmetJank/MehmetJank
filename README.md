@@ -41,9 +41,11 @@ I build and run the software behind a real e-commerce business, from the storefr
 
 ### 📈 Activity
 
+<!-- 3D contribution calendar: hidden for now. Delete this line and the closing line below to show it again.
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
 </p>
+-->
 
 <p align="center">
   <picture>
